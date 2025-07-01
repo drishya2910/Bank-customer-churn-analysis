@@ -1,10 +1,16 @@
 # Bank-customer-churn-analysis
-# Bank-customer-churn-analysis
+## Business Problem
 
+This project analyzes customer churn data from a retail bank to uncover patterns and key drivers of churn. The objective is to recommend data-driven strategies that help retain customers and improve long-term profitability.
 Excel and PowerBI analysis to uncover key drivers of customer churn in banking and recommend data-driven retention strategies.
 
-## 📊 Key Insights & Visualizations
-
+## Key Insights
+- Customers with fewer products and lower account balances are more likely to churn.
+- Germany has a significantly higher churn rate compared to France and Spain.
+- Customers with credit scores below 600 and tenure under 3 years show higher churn risk.
+- Churned customers are more likely to be active online but less engaged with bank services.
+  
+##  Visualizations  
 ### 1. ANOVA Test
 ![ANOVA Test](./Anova%20Single%20Factor.png)
 
