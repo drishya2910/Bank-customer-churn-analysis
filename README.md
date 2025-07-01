@@ -28,3 +28,6 @@ Excel and PowerBI analysis to uncover key drivers of customer churn in banking a
 
 ### 6. T-Test Summary
 ![T-Test](./t-Test%20Two-Sample%20Assuming%20Equal%20Variances.png)
+
+## CONCLUSION 
+Customers with lower product engagement and lower credit scores tend to churn more. Targeted retention strategies should focus on increasing product adoption and providing support to high-risk customer segments.
